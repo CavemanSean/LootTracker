@@ -1,5 +1,5 @@
 Enable misc.log
-- Open your game options -> Game Info -> Scroll to the bottom and put a checkmnark on 'Enable Misc Chat logging'
+- Open your game options -> Game Info -> Scroll to the bottom and put a checkmark on 'Enable Misc Chat logging'
 - Relaunch the ghame
 - Verify data is being written to misc.log (located in your documents\ArcheRage folder)
 
